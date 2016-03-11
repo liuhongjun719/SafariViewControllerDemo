@@ -1,6 +1,6 @@
 //
-//  ViewController.h
-//  SafariViewControllerDemo
+//  SafariViewController.h
+//  CollectFrameDemo
 //
 //  Created by 123456 on 16/3/11.
 //  Copyright © 2016年 123456. All rights reserved.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SafariViewController : UIViewController
 
 @end
-
